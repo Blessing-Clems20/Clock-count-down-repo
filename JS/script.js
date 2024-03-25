@@ -30,5 +30,5 @@ function countdown(minutes) {
     tick();
 }
 
-// Example usage:
+
 countdown(10); // Countdown from 5 minutes
